@@ -1,0 +1,9 @@
+{
+  "repository_name": "lab2daq_info-Release",
+  "repository_url": "https://github.geo.conti.de/uidq6025/lab2daq_info-Release",
+  "release_branch": "release",
+  "repository_owner": "uidq6025",
+  "pre_release": false,
+  "changelog": "changelog.ipx",
+  "upload_artifacts_timeout": 1200
+}
